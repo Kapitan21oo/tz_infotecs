@@ -33,9 +33,8 @@ URL: /help_search/
 УСТАНОВКА
 1. Клонируйте репозиторий: https://github.com/Kapitan21oo/tz_infotecs.git
 2. Перейдите в папку проекта: cd tz_infotecs
-3. Войдите в виртуальное окружение: venv\Scripts\activate.bat
-4. Войдите в корень проекта: cd main
-5. Установите список зависимостей: pip install -r requirements.txt
+3. Войдите в корень проекта: cd main
+4. Установите список зависимостей: pip install -r requirements.txt
 
 ЗАПУСК
 1. Создайте и выполните миграции: python manage.py makemigrations / python manage.py migrate
